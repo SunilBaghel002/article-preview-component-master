@@ -8,8 +8,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [here](https://www.frontendmentor.io/solutions/testimonials-grid-section-b5ncj36Uqf)
-- Live Site URL: [here](https://sunilbaghel002.github.io/testimonials-grid-section-main/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/article-preview-component-solution-MtN-ZfSfPh)
+- Live Site URL: [here](https://sunilbaghel002.github.io/article-preview-component-master/)
 
 ## My process
 
